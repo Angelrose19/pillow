@@ -42,7 +42,7 @@ draw.text((410, 60), name, fill=name_color, font=font)
 
 # Roles
 font = ImageFont.truetype(font2 , size=70)
-draw.text((1, 753), role, fill=ig_color, font=font)
+draw.text((1, 430), role, fill=ig_color, font=font)
 
 # College
 font = ImageFont.truetype(font_name, size=30)
